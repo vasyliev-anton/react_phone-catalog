@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.2b9fe824.chunk.css",
-    "main.js": "./static/js/main.070670ef.chunk.js",
-    "main.js.map": "./static/js/main.070670ef.chunk.js.map",
+    "main.css": "./static/css/main.5dd0bdb0.chunk.css",
+    "main.js": "./static/js/main.215c533f.chunk.js",
+    "main.js.map": "./static/js/main.215c533f.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.3b3eacbe.chunk.js": "./static/js/2.3b3eacbe.chunk.js",
     "static/js/2.3b3eacbe.chunk.js.map": "./static/js/2.3b3eacbe.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.2b9fe824.chunk.css.map": "./static/css/main.2b9fe824.chunk.css.map",
+    "static/css/main.5dd0bdb0.chunk.css.map": "./static/css/main.5dd0bdb0.chunk.css.map",
     "static/js/2.3b3eacbe.chunk.js.LICENSE.txt": "./static/js/2.3b3eacbe.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/arrow-up.3ffcd791.svg",
     "static/media/Chevron (Arrow Left).7460d679.svg": "./static/media/Chevron (Arrow Left).7460d679.svg",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.3b3eacbe.chunk.js",
-    "static/css/main.2b9fe824.chunk.css",
-    "static/js/main.070670ef.chunk.js"
+    "static/css/main.5dd0bdb0.chunk.css",
+    "static/js/main.215c533f.chunk.js"
   ]
 }
